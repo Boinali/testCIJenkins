@@ -21,8 +21,11 @@ public class Solo<T> {
 	}
 	
 	//constr avec param inconnu 
-	public Solo(T val){
+	public Solo(T val){ 
 		this.valeur = val;
 	}
+	
+	
+	eede;
 	
 }
